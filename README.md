@@ -1,4 +1,4 @@
- am incredibly grateful for the opportunity to be a part of the Oasis Infobyte Internship Program, especially in the field of Python programming. This internship has been an amazing experience, allowing me to not only enhance my coding skills but also gain practical, real-world exposure to the tech industry. 💻🚀
+I am incredibly grateful for the opportunity to be a part of the Oasis Infobyte Internship Program, especially in the field of Python programming. This internship has been an amazing experience, allowing me to not only enhance my coding skills but also gain practical, real-world exposure to the tech industry. 💻🚀
 
 Throughout this journey, I’ve had the chance to work on exciting projects that challenged my problem-solving abilities and expanded my understanding of Python. From writing efficient code to debugging complex issues, each task has helped me grow as a programmer and boosted my confidence. 🐍🔧
 
